@@ -1,0 +1,6 @@
+{
+  "name": "生產排程與物料供應跨部門協作管理系統",
+  "description": "跨越業務、生管、採購、倉管與生產主管的智慧製造協同平台，整合訂單排程、BOM物料備料發料追蹤、共用進度看板、異常應變通報與AI延誤預測。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
